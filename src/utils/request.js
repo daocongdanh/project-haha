@@ -1,4 +1,4 @@
-const API_DOMAIN = "https://api-bqi0.onrender.com/";
+const API_DOMAIN = "https://api-ivno.onrender.com/";
 
 export const get = async (path) => {
   const response = await fetch(API_DOMAIN + path);
